@@ -1,17 +1,21 @@
 body {
-  font-family: Arial, sans-serif;
-  max-width: 800px;
+  font-family: Noticia Text;
+  max-width: 900px;
   margin: auto;
   padding: auto;
 }
 
 .source-info {
-  background-color: darkgray;
+  background-color: #c4a698;
+  color:#eae0d5;
   font-size: 18px;
   margin: 0px 0px 15px 0px;
   border: black solid 2px;
   padding: 10px;
+  
 }
+
+a:link,a:visited{color:#ead5df
 
 img {
   width: 100%;
@@ -35,18 +39,6 @@ h2 {
 
 p {
   font-size: 20px;
-  line-height: 26px;
+  line-height: 20px;
 }
 
-.other-image {
-  max-width: 600px;
-  display: block;
-  margin: 30px auto 5px auto;
-}
-
-.other-caption {
-  font-size: 14px;
-  line-height: 14px;
-  max-width: 600px;
-  margin: 5px auto;
-}
