@@ -110,6 +110,9 @@ body {
             border-radius: 5px;
         }
 
+        img {
+        	width: 100%;
+        }
         .iframe title1{
             width: 0; 
             min-width: 100%;
