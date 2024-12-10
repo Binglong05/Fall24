@@ -72,8 +72,9 @@ body {
         	font-size: 25px;
         }
 
-        .photo, img {
-            max-width: 600px; /* 设置图片的最大宽度 */
+        .photo {
+            max-width: 100px; /* 设置图片的最大宽度 */
+            width: 100%;
             height: auto;
             margin: 0 auto; /* 图片居中 */
             display: block;
